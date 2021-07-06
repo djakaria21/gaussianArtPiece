@@ -1,0 +1,16 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "trying to make a thing",
+  "scope": "/",
+  "display": "browser",
+  "start_url": "/",
+  "short_name": "trying to make ",
+  "theme_color": "transparent",
+  "description": "",
+  "orientation": "any",
+  "background_color": "transparent",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": []
+}
